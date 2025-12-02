@@ -1,0 +1,13 @@
+# Python Password Strength Checker
+# No external dependencies required - uses only Python standard library
+
+# Optional: For enhanced functionality (not required for basic usage)
+# getpass - Included in standard library
+# argparse - Included in standard library
+# re - Included in standard library
+# math - Included in standard library
+# json - Included in standard library
+
+# Python version requirement
+# Python >= 3.6
+
